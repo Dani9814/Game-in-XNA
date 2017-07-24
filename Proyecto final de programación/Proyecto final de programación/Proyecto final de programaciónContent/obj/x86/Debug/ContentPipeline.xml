@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\crate.fbx</Source>
+      <Name>Models\crate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\crate.xnb</Output>
+      <Time>2015-05-12T11:29:16.6610254+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\crate_0.xml</Key>
+        <Value>2015-06-04T12:26:56.8982321+02:00</Value>
+      </Dependency>
+      <Request>c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\crate1.fbx</Source>
+      <Name>Models\crate1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\crate1.xnb</Output>
+      <Time>2015-05-12T11:29:16.6320122+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\crate1_0.xml</Key>
+        <Value>2015-06-04T12:26:59.0519811+02:00</Value>
+      </Dependency>
+      <Request>c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\crate_tex2.jpg</Source>
+      <Name>Textures\crate_tex2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex2.xnb</Output>
+      <Time>2015-05-09T17:57:23.3473166+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\crate_tex4.jpg</Source>
+      <Name>Textures\crate_tex4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex4.xnb</Output>
+      <Time>2015-05-09T17:56:00.143362+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\android.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\android_0.xml</Output>
+      <Time>2015-05-12T11:29:16.6540205+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\crate.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\crate_0.xml</Output>
+      <Time>2015-05-12T11:29:16.6610254+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\crate_tex2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex2_0.xnb</Output>
+      <Time>2015-05-09T17:57:23.3473166+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\crate1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\crate1_0.xml</Output>
+      <Time>2015-05-12T11:29:16.6320122+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\crate_tex4.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex4_0.xnb</Output>
+      <Time>2015-05-09T17:56:00.143362+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\android.fbx</Source>
+      <Name>Models\android</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.025</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\android.xnb</Output>
+      <Time>2015-05-12T11:29:16.6540205+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\android_0.xml</Key>
+        <Value>2015-06-04T12:26:56.5149391+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\WoodenBoxOpen02.fbx</Source>
+      <Name>Models\WoodenBoxOpen02</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\WoodenBoxOpen02.xnb</Output>
+      <Time>2015-06-07T17:35:50.4116226+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\WoodenBoxOpen02_0.xml</Key>
+        <Value>2015-06-07T17:35:50.9339912+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Textures\WoodPlanks_Color.jpg</Source>
+      <Name>Textures\WoodPlanks_Color</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\WoodPlanks_Color.xnb</Output>
+      <Time>2011-02-25T20:50:54.890625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\WoodenBoxOpen02.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\WoodenBoxOpen02_0.xml</Output>
+      <Time>2015-06-07T17:35:50.4116226+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\crate3.fbx</Source>
+      <Name>Models\crate3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\crate3.xnb</Output>
+      <Time>2015-06-07T17:52:32.6657709+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\crate3_0.xml</Key>
+        <Value>2015-06-07T17:52:36.403421+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex3_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\crate_tex3.jpg</Source>
+      <Name>Textures\crate_tex3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex3.xnb</Output>
+      <Time>2009-01-07T01:11:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\crate3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\crate3_0.xml</Output>
+      <Time>2015-06-07T17:52:32.6657709+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\crate_tex3.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex3_0.xnb</Output>
+      <Time>2009-01-07T01:11:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2015-06-07T19:47:51.275885+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programaciónContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programaciónContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-05-09T15:01:50.1306579+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,19 @@
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\android.xnb
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\crate.xnb
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\crate1.xnb
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex2.xnb
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex4.xnb
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex2_0.xnb
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex4_0.xnb
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Proyecto final de programación.exe
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Proyecto final de programación.pdb
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\obj\x86\Debug\Proyecto final de programación.exe
+c:\users\daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\obj\x86\Debug\Proyecto final de programación.pdb
+C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\obj\x86\Debug\Proyecto final de programación.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\WoodenBoxOpen02.xnb
+C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\WoodPlanks_Color.xnb
+C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Models\crate3.xnb
+C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex3.xnb
+C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Textures\crate_tex3_0.xnb
+C:\Users\Daniel\documents\visual studio 2010\Projects\Proyecto final de programación\Proyecto final de programación\Proyecto final de programación\bin\x86\Debug\Content\Arial.xnb
